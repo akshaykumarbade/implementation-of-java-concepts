@@ -145,3 +145,24 @@ class KTMBike implements Vehicle {
 		return speed;
 	}
 }
+
+/*
+ * Abstract Class******* $ abstract class can have abstract methods and non
+ * abstract methods also. $ it can have final, non-final, static ,and non-static
+ * variables. $ a java abstract class have class members like private,
+ * protected, default, and public. $ abstract class should be for partial
+ * implementation, and if objects are closely related.
+ */
+
+/*
+ * Interface********* $ An Interface in Java programming language is defined as
+ * an abstract type used to specify the behavior of a class. $ An interface in
+ * Java is a blueprint of a behavior. A Java interface contains static constants
+ * and abstract methods. $ all members of an interface are public by default. $
+ * interface supports multiple inheritance. $ if you want to implement a small
+ * functionality across wide range of objects (related or unrelated), you should
+ * go with interface rather $ than an abstract class. $ Since java 8, interface
+ * can have static and default methods, and since java 9 interface can have
+ * private methods that help $ to share common code between non-abstract
+ * methods.
+ */
